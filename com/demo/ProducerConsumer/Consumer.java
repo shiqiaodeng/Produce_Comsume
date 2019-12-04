@@ -1,4 +1,4 @@
-package com.demo.ProducerConsumer;
+
 
 /**
  * 消费者

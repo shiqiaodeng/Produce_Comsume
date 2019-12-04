@@ -1,0 +1,52 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CallableArgs",
+            "request": "launch",
+            "mainClass": "CallableArgs"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadImageProcessorTest",
+            "request": "launch",
+            "mainClass": "ThreadImageProcessorTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - CallableDemo",
+            "request": "launch",
+            "mainClass": "CallableDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ThreadImageProcessorDemo",
+            "request": "launch",
+            "mainClass": "ThreadImageProcessorDemo"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MyThread2",
+            "request": "launch",
+            "mainClass": "MyThread2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FutrueTaskTest",
+            "request": "launch",
+            "mainClass": "FutrueTaskTest"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FutrueTaskTest2",
+            "request": "launch",
+            "mainClass": "FutrueTaskTest2"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - ProducerConsumerTest",
+            "request": "launch",
+            "mainClass": "ProducerConsumerTest"
+        }
+    ]
+}

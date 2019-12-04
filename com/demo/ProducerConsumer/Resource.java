@@ -1,4 +1,4 @@
-package com.demo.ProducerConsumer;
+
 
 /**
  * 资源
